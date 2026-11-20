@@ -72,9 +72,8 @@ function renderStory(work, scenes) {
       <section class="scene ${isLast ? "scene-final" : ""}" id="scene-${index + 1}">
         <p class="scene-number">SCENE ${String(index + 1).padStart(2, "0")} / ${sorted.length}</p>
         <h2>${escapeHtml(title)}</h2>
-        ${image ? `<img class="scene-image" src="works/${escapeHtml(image)}" alt="${escapeHtml(title)}" loading="${index === 0 ? "eager" : "lazy"}">` : ""}
-        ${scene.description ? `<p class="scene-description">${escapeHtml(scene.description)}</p>` : ""}
         <p class="dialogue">${escapeHtml(scene.dialogue || "")}</p>
+        ${image ? `<img class="scene-image" src="works/${escapeHtml(image)}" alt="${escapeHtml(title)}" loading="${index === 0 ? "eager" : "lazy"}">` : ""}
         ${!isLast ? `<a class="scene-next" href="#scene-${index + 2}">次の場面へ <span aria-hidden="true">↓</span></a>` : ""}
       </section>`;
   }).join("");

@@ -187,13 +187,8 @@ a { color: inherit; }
   height: auto;
   background: var(--soft);
 }
-.scene-description {
-  margin: 18px 0 12px;
-  color: var(--muted);
-  font-size: .88rem;
-}
 .dialogue {
-  margin: 0;
+  margin: 0 0 24px;
   font-size: 1rem;
   line-height: 2.15;
   white-space: pre-line;
