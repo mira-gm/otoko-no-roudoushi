@@ -1,0 +1,24 @@
+[
+  {
+    "id": "nara_official",
+    "title": "あの一言が気になって",
+    "era": "奈良時代",
+    "period": "天平15年（743年）頃",
+    "occupation": "官人",
+    "csv": "works/nara_official/nara_official.csv",
+    "cover": "works/nara_official/images/nara_official_01.jpg",
+    "portrait": "",
+    "order": 1
+  },
+  {
+    "id": "edo_hatamoto",
+    "title": "心配性の旗本",
+    "era": "江戸時代",
+    "period": "江戸時代",
+    "occupation": "旗本",
+    "csv": "works/edo_hatamoto/edo_hatamoto.csv",
+    "cover": "works/edo_hatamoto/images/edo_hatamoto_01.jpg",
+    "portrait": "",
+    "order": 2
+  }
+]
