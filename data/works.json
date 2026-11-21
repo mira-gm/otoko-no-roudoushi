@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "showa_salaryman",
     "title": "それでも会社へ",
@@ -7,7 +7,7 @@
     "occupation": "サラリーマン",
     "csv": "works/showa_salaryman/showa_salaryman.csv",
     "cover": "works/showa_salaryman/images/showa_salaryman_01.jpg",
-    "portrait": "",
+    "portrait": "works/showa_salaryman/images/showa_salaryman_top_4x5.jpg",
     "order": 1
   },
   {
@@ -29,7 +29,7 @@
     "occupation": "工場職工",
     "csv": "works/meiji_factory_worker/meiji_factory_worker.csv",
     "cover": "works/meiji_factory_worker/images/meiji_factory_worker_01.jpg",
-    "portrait": "",
+    "portrait": "works/meiji_factory_worker/images/meiji_factory_worker_top_4x5.jpg",
     "order": 3
   },
   {
@@ -40,7 +40,7 @@
     "occupation": "旗本",
     "csv": "works/edo_hatamoto/edo_hatamoto.csv",
     "cover": "works/edo_hatamoto/images/edo_hatamoto_01.jpg",
-    "portrait": "",
+    "portrait": "works/edo_hatamoto/images/edo_hatamoto_top_4x5.jpg",
     "order": 4
   },
   {
@@ -51,7 +51,7 @@
     "occupation": "下級武士",
     "csv": "works/edo_lower_samurai/edo_lower_samurai.csv",
     "cover": "works/edo_lower_samurai/images/edo_lower_samurai_01.jpg",
-    "portrait": "",
+    "portrait": "works/edo_lower_samurai/images/edo_lower_samurai_top_4x5.jpg",
     "order": 5
   },
   {
@@ -62,7 +62,7 @@
     "occupation": "農民",
     "csv": "works/edo_peasant/edo_peasant.csv",
     "cover": "works/edo_peasant/images/edo_peasant_01.jpg",
-    "portrait": "",
+    "portrait": "works/edo_peasant/images/edo_peasant_top_4x5.jpg",
     "order": 6
   },
   {
@@ -73,7 +73,7 @@
     "occupation": "大工",
     "csv": "works/edo_carpenter/edo_carpenter.csv",
     "cover": "works/edo_carpenter/images/edo_carpenter_01.jpg",
-    "portrait": "",
+    "portrait": "works/edo_carpenter/images/edo_carpenter_top_4x5.jpg",
     "order": 7
   },
   {
@@ -84,7 +84,7 @@
     "occupation": "商人",
     "csv": "works/edo_merchant/edo_merchant.csv",
     "cover": "works/edo_merchant/images/edo_merchant_01.jpg",
-    "portrait": "",
+    "portrait": "works/edo_merchant/images/edo_merchant_top_4x5.jpg",
     "order": 8
   },
   {
@@ -95,7 +95,7 @@
     "occupation": "足軽",
     "csv": "works/sengoku_ashigaru/sengoku_ashigaru.csv",
     "cover": "works/sengoku_ashigaru/images/sengoku_ashigaru_01.jpg",
-    "portrait": "",
+    "portrait": "works/sengoku_ashigaru/images/sengoku_ashigaru_top_4x5.jpg",
     "order": 9
   },
   {
@@ -106,7 +106,7 @@
     "occupation": "侍大将",
     "csv": "works/sengoku_samurai_commander/sengoku_samurai_commander.csv",
     "cover": "works/sengoku_samurai_commander/images/sengoku_samurai_commander_01.jpg",
-    "portrait": "",
+    "portrait": "works/sengoku_samurai_commander/images/sengoku_samurai_commander_top_4x5.jpg",
     "order": 10
   },
   {
@@ -117,7 +117,7 @@
     "occupation": "奉行人",
     "csv": "works/muromachi_bugyonin/muromachi_bugyonin.csv",
     "cover": "works/muromachi_bugyonin/images/muromachi_bugyonin_01.jpg",
-    "portrait": "",
+    "portrait": "works/muromachi_bugyonin/images/muromachi_bugyonin_top_4x5.jpg",
     "order": 11
   },
   {
@@ -128,7 +128,7 @@
     "occupation": "馬借",
     "csv": "works/muromachi_bashaku/muromachi_bashaku.csv",
     "cover": "works/muromachi_bashaku/images/muromachi_bashaku_01.jpg",
-    "portrait": "",
+    "portrait": "works/muromachi_bashaku/images/muromachi_bashaku_top_4x5.jpg",
     "order": 12
   },
   {
@@ -139,7 +139,7 @@
     "occupation": "織物職人",
     "csv": "works/muromachi_orimono/muromachi_orimono.csv",
     "cover": "works/muromachi_orimono/images/muromachi_orimono_01.jpg",
-    "portrait": "",
+    "portrait": "works/muromachi_orimono/images/muromachi_orimono_top_4x5.jpg",
     "order": 13
   },
   {
@@ -150,7 +150,7 @@
     "occupation": "修行僧",
     "csv": "works/kamakura_shugyosou/kamakura_shugyosou.csv",
     "cover": "works/kamakura_shugyosou/images/kamakura_shugyosou_01.jpg",
-    "portrait": "",
+    "portrait": "works/kamakura_shugyosou/images/kamakura_shugyosou_top_4x5.jpg",
     "order": 14
   },
   {
@@ -161,7 +161,7 @@
     "occupation": "御家人",
     "csv": "works/kamakura_gokenin/kamakura_gokenin.csv",
     "cover": "works/kamakura_gokenin/images/kamakura_gokenin_01.jpg",
-    "portrait": "",
+    "portrait": "works/kamakura_gokenin/images/kamakura_gokenin_top_4x5.jpg",
     "order": 15
   },
   {
@@ -172,7 +172,7 @@
     "occupation": "陰陽師",
     "csv": "works/heian_onmyoji/heian_onmyoji.csv",
     "cover": "works/heian_onmyoji/images/heian_onmyoji_01.jpg",
-    "portrait": "",
+    "portrait": "works/heian_onmyoji/images/heian_onmyoji_top_4x5.jpg",
     "order": 16
   },
   {
@@ -183,7 +183,7 @@
     "occupation": "官人",
     "csv": "works/nara_official/nara_official.csv",
     "cover": "works/nara_official/images/nara_official_01.jpg",
-    "portrait": "",
+    "portrait": "works/nara_official/images/nara_official_top_4x5.jpg",
     "order": 17
   },
   {
@@ -194,7 +194,7 @@
     "occupation": "古墳労働者",
     "csv": "works/kofun_worker/kofun_worker.csv",
     "cover": "works/kofun_worker/images/kofun_worker_01.jpg",
-    "portrait": "",
+    "portrait": "works/kofun_worker/images/kofun_worker_top_4x5.jpg",
     "order": 18
   },
   {
@@ -205,7 +205,7 @@
     "occupation": "稲作農民",
     "csv": "works/yayoi_rice/yayoi_rice.csv",
     "cover": "works/yayoi_rice/images/yayoi_rice_01.jpg",
-    "portrait": "",
+    "portrait": "works/yayoi_rice/images/yayoi_rice_top_4x5.jpg",
     "order": 19
   },
   {
@@ -216,7 +216,7 @@
     "occupation": "狩人",
     "csv": "works/jomon_hunter/jomon_hunter.csv",
     "cover": "works/jomon_hunter/images/jomon_hunter_01.jpg",
-    "portrait": "",
+    "portrait": "works/jomon_hunter/images/jomon_hunter_top_4x5.jpg",
     "order": 20
   }
 ]
