@@ -1,195 +1,179 @@
 [
   {
     "id": "showa_salaryman",
-    "title": "昭和サラリーマン",
+    "title": "昭和サラリーマン｜それでも会社へ",
     "era": "昭和時代",
     "period": "昭和時代",
     "occupation": "サラリーマン",
     "csv": "works/showa_salaryman/showa_salaryman.csv",
-    "cover": "works/showa_salaryman/images/showa_salaryman_top_4x5.jpg",
+    "cover": "works/showa_salaryman/images/showa_salaryman_01.jpg",
     "portrait": "",
-    "order": 1,
-    "subtitle": "それでも会社へ"
+    "order": 1
   },
   {
     "id": "taisho_kikanshi",
-    "title": "蒸気機関車の機関士",
+    "title": "蒸気機関車の機関士｜神経すり減らして",
     "era": "大正時代",
     "period": "大正4年（1915年）頃",
     "occupation": "機関士",
     "csv": "works/taisho_kikanshi/taisho_kikanshi.csv",
     "cover": "works/taisho_kikanshi/images/taisho_kikanshi_01.jpg",
     "portrait": "works/taisho_kikanshi/images/taisho_kikanshi_top_4x5.jpg",
-    "order": 2,
-    "subtitle": "神経すり減らして"
+    "order": 2
   },
   {
     "id": "meiji_factory_worker",
-    "title": "明治工場職工",
+    "title": "明治工場職工｜きつい辞めたい",
     "era": "明治時代",
     "period": "明治時代",
     "occupation": "工場職工",
     "csv": "works/meiji_factory_worker/meiji_factory_worker.csv",
     "cover": "works/meiji_factory_worker/images/meiji_factory_worker_01.jpg",
     "portrait": "",
-    "order": 3,
-    "subtitle": "きつい辞めたい"
+    "order": 3
   },
   {
     "id": "edo_hatamoto",
-    "title": "心配性の旗本",
+    "title": "心配性の旗本｜悪い予感ばかりして",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "旗本",
     "csv": "works/edo_hatamoto/edo_hatamoto.csv",
     "cover": "works/edo_hatamoto/images/edo_hatamoto_01.jpg",
     "portrait": "",
-    "order": 4,
-    "subtitle": "悪い予感ばかりして"
+    "order": 4
   },
   {
     "id": "edo_lower_samurai",
-    "title": "江戸下級武士",
+    "title": "江戸下級武士｜禄だけでは食べていけぬ",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "下級武士",
     "csv": "works/edo_lower_samurai/edo_lower_samurai.csv",
     "cover": "works/edo_lower_samurai/images/edo_lower_samurai_01.jpg",
     "portrait": "",
-    "order": 5,
-    "subtitle": "禄だけでは食べていけぬ"
+    "order": 5
   },
   {
     "id": "edo_peasant",
-    "title": "江戸農民",
+    "title": "江戸農民｜守れなかった娘",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "農民",
     "csv": "works/edo_peasant/edo_peasant.csv",
     "cover": "works/edo_peasant/images/edo_peasant_01.jpg",
     "portrait": "",
-    "order": 6,
-    "subtitle": "守れなかった娘"
+    "order": 6
   },
   {
     "id": "edo_carpenter",
-    "title": "江戸大工",
+    "title": "江戸大工｜身体が資本",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "大工",
     "csv": "works/edo_carpenter/edo_carpenter.csv",
     "cover": "works/edo_carpenter/images/edo_carpenter_01.jpg",
     "portrait": "",
-    "order": 7,
-    "subtitle": "身体が資本"
+    "order": 7
   },
   {
     "id": "edo_merchant",
-    "title": "江戸商人",
+    "title": "江戸商人｜人付き合いも商いのうち",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "商人",
     "csv": "works/edo_merchant/edo_merchant.csv",
     "cover": "works/edo_merchant/images/edo_merchant_01.jpg",
     "portrait": "",
-    "order": 8,
-    "subtitle": "人付き合いも商いのうち"
+    "order": 8
   },
   {
     "id": "sengoku_ashigaru",
-    "title": "戦国足軽",
+    "title": "戦国足軽｜明日生きる保証なく",
     "era": "戦国時代",
     "period": "戦国時代",
     "occupation": "足軽",
     "csv": "works/sengoku_ashigaru/sengoku_ashigaru.csv",
     "cover": "works/sengoku_ashigaru/images/sengoku_ashigaru_01.jpg",
     "portrait": "",
-    "order": 9,
-    "subtitle": "明日生きる保証なく"
+    "order": 9
   },
   {
     "id": "sengoku_samurai_commander",
-    "title": "戦国侍大将",
+    "title": "戦国侍大将｜背負う命の重さ",
     "era": "戦国時代",
     "period": "戦国時代",
     "occupation": "侍大将",
     "csv": "works/sengoku_samurai_commander/sengoku_samurai_commander.csv",
     "cover": "works/sengoku_samurai_commander/images/sengoku_samurai_commander_01.jpg",
     "portrait": "",
-    "order": 10,
-    "subtitle": "背負う命の重さ"
+    "order": 10
   },
   {
     "id": "muromachi_bugyonin",
-    "title": "室町奉行人",
+    "title": "室町奉行人｜認められずとも",
     "era": "室町時代",
     "period": "室町時代",
     "occupation": "奉行人",
     "csv": "works/muromachi_bugyonin/muromachi_bugyonin.csv",
     "cover": "works/muromachi_bugyonin/images/muromachi_bugyonin_01.jpg",
     "portrait": "",
-    "order": 11,
-    "subtitle": "認められずとも"
+    "order": 11
   },
   {
     "id": "muromachi_bashaku",
-    "title": "室町馬借",
+    "title": "室町馬借｜無事に送り届けるまで",
     "era": "室町時代",
     "period": "室町時代",
     "occupation": "馬借",
     "csv": "works/muromachi_bashaku/muromachi_bashaku.csv",
     "cover": "works/muromachi_bashaku/images/muromachi_bashaku_01.jpg",
     "portrait": "",
-    "order": 12,
-    "subtitle": "無事に送り届けるまで"
+    "order": 12
   },
   {
     "id": "muromachi_orimono",
-    "title": "室町織物職人",
+    "title": "室町織物職人｜一糸の乱れも許されず",
     "era": "室町時代",
     "period": "室町時代",
     "occupation": "織物職人",
     "csv": "works/muromachi_orimono/muromachi_orimono.csv",
     "cover": "works/muromachi_orimono/images/muromachi_orimono_01.jpg",
     "portrait": "",
-    "order": 13,
-    "subtitle": "一糸の乱れも許されず"
+    "order": 13
   },
   {
     "id": "kamakura_shugyosou",
-    "title": "鎌倉修行僧",
+    "title": "鎌倉修行僧｜煩悩との闘い",
     "era": "鎌倉時代",
     "period": "鎌倉時代",
     "occupation": "修行僧",
     "csv": "works/kamakura_shugyosou/kamakura_shugyosou.csv",
-    "cover": "works/kamakura_shugyosou/images/kamakura_shugyosou_top_4x5.jpg",
+    "cover": "works/kamakura_shugyosou/images/kamakura_shugyosou_01.jpg",
     "portrait": "",
-    "order": 14,
-    "subtitle": "煩悩との闘い"
+    "order": 14
   },
   {
     "id": "kamakura_gokenin",
-    "title": "鎌倉御家人",
+    "title": "鎌倉御家人｜命懸けても報われず",
     "era": "鎌倉時代",
     "period": "鎌倉時代",
     "occupation": "御家人",
     "csv": "works/kamakura_gokenin/kamakura_gokenin.csv",
     "cover": "works/kamakura_gokenin/images/kamakura_gokenin_01.jpg",
     "portrait": "",
-    "order": 15,
-    "subtitle": "命懸けても報われず"
+    "order": 15
   },
   {
     "id": "heian_onmyoji",
-    "title": "平安陰陽師",
+    "title": "平安陰陽師｜人を占い己も悩み",
     "era": "平安時代",
     "period": "平安時代",
     "occupation": "陰陽師",
     "csv": "works/heian_onmyoji/heian_onmyoji.csv",
     "cover": "works/heian_onmyoji/images/heian_onmyoji_01.jpg",
     "portrait": "",
-    "order": 16,
-    "subtitle": "人を占い己も悩み"
+    "order": 16
   },
   {
     "id": "nara_official",
@@ -200,43 +184,39 @@
     "csv": "works/nara_official/nara_official.csv",
     "cover": "works/nara_official/images/nara_official_01.jpg",
     "portrait": "",
-    "order": 17,
-    "subtitle": ""
+    "order": 17
   },
   {
     "id": "kofun_worker",
-    "title": "古墳労働者",
+    "title": "古墳労働者｜黙って土を運ぶ日々",
     "era": "古墳時代",
     "period": "古墳時代",
     "occupation": "古墳労働者",
     "csv": "works/kofun_worker/kofun_worker.csv",
     "cover": "works/kofun_worker/images/kofun_worker_01.jpg",
     "portrait": "",
-    "order": 18,
-    "subtitle": "黙って土を運ぶ日々"
+    "order": 18
   },
   {
     "id": "yayoi_rice",
-    "title": "弥生人",
+    "title": "弥生人｜実らずともまた植える",
     "era": "弥生時代",
     "period": "弥生時代",
     "occupation": "稲作農民",
     "csv": "works/yayoi_rice/yayoi_rice.csv",
     "cover": "works/yayoi_rice/images/yayoi_rice_01.jpg",
     "portrait": "",
-    "order": 19,
-    "subtitle": "実らずともまた植える"
+    "order": 19
   },
   {
     "id": "jomon_hunter",
-    "title": "縄文人",
+    "title": "縄文人｜糧を求めてまた森へ",
     "era": "縄文時代",
     "period": "縄文時代",
     "occupation": "狩人",
     "csv": "works/jomon_hunter/jomon_hunter.csv",
     "cover": "works/jomon_hunter/images/jomon_hunter_01.jpg",
     "portrait": "",
-    "order": 20,
-    "subtitle": "明日の糧を求めて"
+    "order": 20
   }
 ]
