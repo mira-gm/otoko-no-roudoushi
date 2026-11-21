@@ -36,3 +36,9 @@
 - 「次の場面へ ↓」で次の場面へスムーズにジャンプ
 - ボタンを使わず、通常のスクロールでも読める
 - 最終場面は読者へのメッセージとして区別
+
+## 追加作品：大正時代・蒸気機関車の機関士
+- 作品ID：`taisho_kikanshi`
+- CSV：`works/taisho_kikanshi/taisho_kikanshi.csv`
+- 画像：`works/taisho_kikanshi/images/`
+- 作品一覧への登録：`data/works.json`

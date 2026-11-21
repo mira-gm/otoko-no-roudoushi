@@ -20,5 +20,16 @@
     "cover": "works/edo_hatamoto/images/edo_hatamoto_01.jpg",
     "portrait": "",
     "order": 2
+  },
+  {
+    "id": "taisho_kikanshi",
+    "title": "蒸気機関車の機関士",
+    "era": "大正時代",
+    "period": "大正4年（1915年）頃",
+    "occupation": "機関士",
+    "csv": "works/taisho_kikanshi/taisho_kikanshi.csv",
+    "cover": "works/taisho_kikanshi/images/taisho_kikanshi_01.jpg",
+    "portrait": "works/taisho_kikanshi/images/taisho_kikanshi_top_4x5.jpg",
+    "order": 3
   }
 ]
