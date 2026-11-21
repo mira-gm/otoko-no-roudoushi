@@ -1,7 +1,7 @@
 [
   {
     "id": "showa_salaryman",
-    "title": "昭和サラリーマン｜それでも会社へ",
+    "title": "それでも会社へ",
     "era": "昭和時代",
     "period": "昭和時代",
     "occupation": "サラリーマン",
@@ -12,7 +12,7 @@
   },
   {
     "id": "taisho_kikanshi",
-    "title": "蒸気機関車の機関士｜神経すり減らして",
+    "title": "神経すり減らして",
     "era": "大正時代",
     "period": "大正4年（1915年）頃",
     "occupation": "機関士",
@@ -23,7 +23,7 @@
   },
   {
     "id": "meiji_factory_worker",
-    "title": "明治工場職工｜きつい辞めたい",
+    "title": "きつい辞めたい",
     "era": "明治時代",
     "period": "明治時代",
     "occupation": "工場職工",
@@ -34,7 +34,7 @@
   },
   {
     "id": "edo_hatamoto",
-    "title": "心配性の旗本｜悪い予感ばかりして",
+    "title": "悪い予感ばかりして",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "旗本",
@@ -45,7 +45,7 @@
   },
   {
     "id": "edo_lower_samurai",
-    "title": "江戸下級武士｜禄だけでは食べていけぬ",
+    "title": "禄だけでは食べていけぬ",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "下級武士",
@@ -56,7 +56,7 @@
   },
   {
     "id": "edo_peasant",
-    "title": "江戸農民｜守れなかった娘",
+    "title": "守れなかった娘",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "農民",
@@ -67,7 +67,7 @@
   },
   {
     "id": "edo_carpenter",
-    "title": "江戸大工｜身体が資本",
+    "title": "身体が資本",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "大工",
@@ -78,7 +78,7 @@
   },
   {
     "id": "edo_merchant",
-    "title": "江戸商人｜人付き合いも商いのうち",
+    "title": "人付き合いも商いのうち",
     "era": "江戸時代",
     "period": "江戸時代",
     "occupation": "商人",
@@ -89,7 +89,7 @@
   },
   {
     "id": "sengoku_ashigaru",
-    "title": "戦国足軽｜明日生きる保証なく",
+    "title": "明日生きる保証なく",
     "era": "戦国時代",
     "period": "戦国時代",
     "occupation": "足軽",
@@ -100,7 +100,7 @@
   },
   {
     "id": "sengoku_samurai_commander",
-    "title": "戦国侍大将｜背負う命の重さ",
+    "title": "背負う命の重さ",
     "era": "戦国時代",
     "period": "戦国時代",
     "occupation": "侍大将",
@@ -111,7 +111,7 @@
   },
   {
     "id": "muromachi_bugyonin",
-    "title": "室町奉行人｜認められずとも",
+    "title": "認められずとも",
     "era": "室町時代",
     "period": "室町時代",
     "occupation": "奉行人",
@@ -122,7 +122,7 @@
   },
   {
     "id": "muromachi_bashaku",
-    "title": "室町馬借｜無事に送り届けるまで",
+    "title": "無事に送り届けるまで",
     "era": "室町時代",
     "period": "室町時代",
     "occupation": "馬借",
@@ -133,7 +133,7 @@
   },
   {
     "id": "muromachi_orimono",
-    "title": "室町織物職人｜一糸の乱れも許されず",
+    "title": "一糸の乱れも許されず",
     "era": "室町時代",
     "period": "室町時代",
     "occupation": "織物職人",
@@ -144,7 +144,7 @@
   },
   {
     "id": "kamakura_shugyosou",
-    "title": "鎌倉修行僧｜煩悩との闘い",
+    "title": "煩悩との闘い",
     "era": "鎌倉時代",
     "period": "鎌倉時代",
     "occupation": "修行僧",
@@ -155,7 +155,7 @@
   },
   {
     "id": "kamakura_gokenin",
-    "title": "鎌倉御家人｜命懸けても報われず",
+    "title": "命懸けても報われず",
     "era": "鎌倉時代",
     "period": "鎌倉時代",
     "occupation": "御家人",
@@ -166,7 +166,7 @@
   },
   {
     "id": "heian_onmyoji",
-    "title": "平安陰陽師｜人を占い己も悩み",
+    "title": "人を占い己も悩み",
     "era": "平安時代",
     "period": "平安時代",
     "occupation": "陰陽師",
@@ -188,7 +188,7 @@
   },
   {
     "id": "kofun_worker",
-    "title": "古墳労働者｜黙って土を運ぶ日々",
+    "title": "黙って土を運ぶ日々",
     "era": "古墳時代",
     "period": "古墳時代",
     "occupation": "古墳労働者",
@@ -199,7 +199,7 @@
   },
   {
     "id": "yayoi_rice",
-    "title": "弥生人｜実らずともまた植える",
+    "title": "実らずともまた植える",
     "era": "弥生時代",
     "period": "弥生時代",
     "occupation": "稲作農民",
@@ -210,7 +210,7 @@
   },
   {
     "id": "jomon_hunter",
-    "title": "縄文人｜糧を求めてまた森へ",
+    "title": "糧を求めてまた森へ",
     "era": "縄文時代",
     "period": "縄文時代",
     "occupation": "狩人",
