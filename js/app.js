@@ -61,7 +61,6 @@ function renderStory(work, scenes) {
   const main = document.getElementById("story-main");
   if (!main) return;
   const first = scenes[0] || {};
-  const intro = first.description || "";
   const sorted = scenes.sort((a, b) => Number(a.index) - Number(b.index));
 
   const sceneHtml = sorted.map((scene, index) => {
@@ -71,10 +70,12 @@ function renderStory(work, scenes) {
     return `
       <section class="scene ${isLast ? "scene-final" : ""}" id="scene-${index + 1}">
         <p class="scene-number">SCENE ${String(index + 1).padStart(2, "0")} / ${sorted.length}</p>
-        <h2>${escapeHtml(title)}</h2>
         <p class="dialogue">${escapeHtml(scene.dialogue || "")}</p>
-        ${image ? `<img class="scene-image" src="works/${escapeHtml(image)}" alt="${escapeHtml(title)}" loading="${index === 0 ? "eager" : "lazy"}">` : ""}
-        ${!isLast ? `<a class="scene-next" href="#scene-${index + 2}">次の場面へ <span aria-hidden="true">↓</span></a>` : ""}
+        ${image ? `
+          <div class="scene-image-wrap">
+            <img class="scene-image" src="works/${escapeHtml(image)}" alt="${escapeHtml(title)}" loading="${index === 0 ? "eager" : "lazy"}">
+            ${!isLast ? `<a class="scene-next" href="#scene-${index + 2}">次の場面へ <span aria-hidden="true">↓</span></a>` : ""}
+          </div>` : ""}
       </section>`;
   }).join("");
 
@@ -82,7 +83,6 @@ function renderStory(work, scenes) {
     <header class="story-heading">
       <p class="story-meta">${escapeHtml(work.era)}｜${escapeHtml(work.occupation)}${work.period ? "｜" + escapeHtml(work.period) : ""}</p>
       <h1>${escapeHtml(work.title)}</h1>
-      ${intro ? `<p class="story-description">${escapeHtml(intro)}</p>` : ""}
     </header>
     ${sceneHtml}
     <div class="story-end"><a href="index.html">作品一覧へ戻る</a></div>
