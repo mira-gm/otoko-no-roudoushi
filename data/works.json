@@ -6,9 +6,10 @@
     "period": "昭和時代",
     "occupation": "サラリーマン",
     "csv": "works/showa_salaryman/showa_salaryman.csv",
-    "cover": "works/showa_salaryman/images/showa_salaryman_01.jpg",
+    "cover": "works/showa_salaryman/images/showa_salaryman_top_4x5.jpg",
     "portrait": "",
-    "order": 1
+    "order": 1,
+    "subtitle": "それでも会社へ"
   },
   {
     "id": "taisho_kikanshi",
@@ -19,7 +20,8 @@
     "csv": "works/taisho_kikanshi/taisho_kikanshi.csv",
     "cover": "works/taisho_kikanshi/images/taisho_kikanshi_01.jpg",
     "portrait": "works/taisho_kikanshi/images/taisho_kikanshi_top_4x5.jpg",
-    "order": 2
+    "order": 2,
+    "subtitle": "神経すり減らして"
   },
   {
     "id": "meiji_factory_worker",
@@ -30,7 +32,8 @@
     "csv": "works/meiji_factory_worker/meiji_factory_worker.csv",
     "cover": "works/meiji_factory_worker/images/meiji_factory_worker_01.jpg",
     "portrait": "",
-    "order": 3
+    "order": 3,
+    "subtitle": "きつい辞めたい"
   },
   {
     "id": "edo_hatamoto",
@@ -41,7 +44,8 @@
     "csv": "works/edo_hatamoto/edo_hatamoto.csv",
     "cover": "works/edo_hatamoto/images/edo_hatamoto_01.jpg",
     "portrait": "",
-    "order": 4
+    "order": 4,
+    "subtitle": "悪い予感ばかりして"
   },
   {
     "id": "edo_lower_samurai",
@@ -52,7 +56,8 @@
     "csv": "works/edo_lower_samurai/edo_lower_samurai.csv",
     "cover": "works/edo_lower_samurai/images/edo_lower_samurai_01.jpg",
     "portrait": "",
-    "order": 5
+    "order": 5,
+    "subtitle": "禄だけでは食べていけぬ"
   },
   {
     "id": "edo_peasant",
@@ -63,7 +68,8 @@
     "csv": "works/edo_peasant/edo_peasant.csv",
     "cover": "works/edo_peasant/images/edo_peasant_01.jpg",
     "portrait": "",
-    "order": 6
+    "order": 6,
+    "subtitle": "守れなかった娘"
   },
   {
     "id": "edo_carpenter",
@@ -74,7 +80,8 @@
     "csv": "works/edo_carpenter/edo_carpenter.csv",
     "cover": "works/edo_carpenter/images/edo_carpenter_01.jpg",
     "portrait": "",
-    "order": 7
+    "order": 7,
+    "subtitle": "身体が資本"
   },
   {
     "id": "edo_merchant",
@@ -85,7 +92,8 @@
     "csv": "works/edo_merchant/edo_merchant.csv",
     "cover": "works/edo_merchant/images/edo_merchant_01.jpg",
     "portrait": "",
-    "order": 8
+    "order": 8,
+    "subtitle": "人付き合いも商いのうち"
   },
   {
     "id": "sengoku_ashigaru",
@@ -96,7 +104,8 @@
     "csv": "works/sengoku_ashigaru/sengoku_ashigaru.csv",
     "cover": "works/sengoku_ashigaru/images/sengoku_ashigaru_01.jpg",
     "portrait": "",
-    "order": 9
+    "order": 9,
+    "subtitle": "明日生きる保証なく"
   },
   {
     "id": "sengoku_samurai_commander",
@@ -107,7 +116,8 @@
     "csv": "works/sengoku_samurai_commander/sengoku_samurai_commander.csv",
     "cover": "works/sengoku_samurai_commander/images/sengoku_samurai_commander_01.jpg",
     "portrait": "",
-    "order": 10
+    "order": 10,
+    "subtitle": "背負う命の重さ"
   },
   {
     "id": "muromachi_bugyonin",
@@ -118,7 +128,8 @@
     "csv": "works/muromachi_bugyonin/muromachi_bugyonin.csv",
     "cover": "works/muromachi_bugyonin/images/muromachi_bugyonin_01.jpg",
     "portrait": "",
-    "order": 11
+    "order": 11,
+    "subtitle": "認められずとも"
   },
   {
     "id": "muromachi_bashaku",
@@ -129,7 +140,8 @@
     "csv": "works/muromachi_bashaku/muromachi_bashaku.csv",
     "cover": "works/muromachi_bashaku/images/muromachi_bashaku_01.jpg",
     "portrait": "",
-    "order": 12
+    "order": 12,
+    "subtitle": "無事に送り届けるまで"
   },
   {
     "id": "muromachi_orimono",
@@ -140,7 +152,8 @@
     "csv": "works/muromachi_orimono/muromachi_orimono.csv",
     "cover": "works/muromachi_orimono/images/muromachi_orimono_01.jpg",
     "portrait": "",
-    "order": 13
+    "order": 13,
+    "subtitle": "一糸の乱れも許されず"
   },
   {
     "id": "kamakura_shugyosou",
@@ -149,9 +162,10 @@
     "period": "鎌倉時代",
     "occupation": "修行僧",
     "csv": "works/kamakura_shugyosou/kamakura_shugyosou.csv",
-    "cover": "works/kamakura_shugyosou/images/kamakura_shugyosou_01.jpg",
+    "cover": "works/kamakura_shugyosou/images/kamakura_shugyosou_top_4x5.jpg",
     "portrait": "",
-    "order": 14
+    "order": 14,
+    "subtitle": "煩悩との闘い"
   },
   {
     "id": "kamakura_gokenin",
@@ -162,7 +176,8 @@
     "csv": "works/kamakura_gokenin/kamakura_gokenin.csv",
     "cover": "works/kamakura_gokenin/images/kamakura_gokenin_01.jpg",
     "portrait": "",
-    "order": 15
+    "order": 15,
+    "subtitle": "命懸けても報われず"
   },
   {
     "id": "heian_onmyoji",
@@ -173,7 +188,8 @@
     "csv": "works/heian_onmyoji/heian_onmyoji.csv",
     "cover": "works/heian_onmyoji/images/heian_onmyoji_01.jpg",
     "portrait": "",
-    "order": 16
+    "order": 16,
+    "subtitle": "人を占い己も悩み"
   },
   {
     "id": "nara_official",
@@ -184,7 +200,8 @@
     "csv": "works/nara_official/nara_official.csv",
     "cover": "works/nara_official/images/nara_official_01.jpg",
     "portrait": "",
-    "order": 17
+    "order": 17,
+    "subtitle": ""
   },
   {
     "id": "kofun_worker",
@@ -195,7 +212,8 @@
     "csv": "works/kofun_worker/kofun_worker.csv",
     "cover": "works/kofun_worker/images/kofun_worker_01.jpg",
     "portrait": "",
-    "order": 18
+    "order": 18,
+    "subtitle": "黙って土を運ぶ日々"
   },
   {
     "id": "yayoi_rice",
@@ -206,7 +224,8 @@
     "csv": "works/yayoi_rice/yayoi_rice.csv",
     "cover": "works/yayoi_rice/images/yayoi_rice_01.jpg",
     "portrait": "",
-    "order": 19
+    "order": 19,
+    "subtitle": "実らずともまた植える"
   },
   {
     "id": "jomon_hunter",
@@ -217,6 +236,7 @@
     "csv": "works/jomon_hunter/jomon_hunter.csv",
     "cover": "works/jomon_hunter/images/jomon_hunter_01.jpg",
     "portrait": "",
-    "order": 20
+    "order": 20,
+    "subtitle": "明日の糧を求めて"
   }
 ]
