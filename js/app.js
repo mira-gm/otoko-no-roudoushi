@@ -74,8 +74,8 @@ function renderStory(work, scenes) {
         ${image ? `
           <div class="scene-image-wrap">
             <img class="scene-image" src="works/${escapeHtml(image)}" alt="${escapeHtml(title)}" loading="${index === 0 ? "eager" : "lazy"}">
-            ${!isLast ? `<a class="scene-next" href="#scene-${index + 2}">次の場面へ <span aria-hidden="true">↓</span></a>` : ""}
-          </div>` : ""}
+          </div>
+          ${!isLast ? `<a class="scene-next" href="#scene-${index + 2}">次の場面へ <span aria-hidden="true">↓</span></a>` : ""}` : ""}
       </section>`;
   }).join("");
 
